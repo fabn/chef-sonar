@@ -1,3 +1,4 @@
+name             "sonar_test"
 maintainer       "Paul Dunnavant"
 maintainer_email "pdunnavant@gmail.com"
 license          "Apache 2.0"
